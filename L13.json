@@ -1,0 +1,41 @@
+{
+  "title": "Lesson 13",
+  "tags": ["Road To Success - Lower Elementary 2"],
+  "cards": [
+    { "hanzi": "喂", "english": "hello", "pinyin": "wèi" },
+    { "hanzi": "一些", "english": "some", "pinyin": "yì xiē" },
+    { "hanzi": "些", "english": "some", "pinyin": "xiē" },
+    { "hanzi": "这些", "english": "these", "pinyin": "zhè xiē" },
+    { "hanzi": "那些", "english": "those", "pinyin": "nà xiē" },
+    { "hanzi": "帮", "english": "to help", "pinyin": "bāng" },
+    { "hanzi": "一下儿", "english": "one time, once", "pinyin": "yíxiàr" },
+    { "hanzi": "在", "english": "at, on, in", "pinyin": "zài" },
+    { "hanzi": "饭", "english": "meal", "pinyin": "fàn" },
+    { "hanzi": "早饭", "english": "breakfast", "pinyin": "zǎo fàn" },
+    { "hanzi": "午饭", "english": "lunch", "pinyin": "wǔ fàn" },
+    { "hanzi": "晚饭", "english": "supper, dinner", "pinyin": "wǎn fàn" },
+    { "hanzi": "一起", "english": "together", "pinyin": "yìqǐ" },
+    { "hanzi": "食堂", "english": "canteen", "pinyin": "shí táng" },
+    { "hanzi": "门口", "english": "doorway", "pinyin": "mén kǒu" },
+    { "hanzi": "图书馆", "english": "library", "pinyin": "tú shū guǎn" },
+    {
+      "hanzi": "看",
+      "english": "to look at, to see, to watch",
+      "pinyin": "kàn"
+    },
+    { "hanzi": "电视", "english": "television", "pinyin": "diàn shì" },
+    { "hanzi": "或者", "english": "or", "pinyin": "huò zhě" },
+    { "hanzi": "跟", "english": "with", "pinyin": "gēn" },
+    { "hanzi": "同屋", "english": "roommate", "pinyin": "tóng wū" },
+    { "hanzi": "聊天儿", "english": "to chat", "pinyin": "liáo tiān" },
+    { "hanzi": "聊", "english": "to chat", "pinyin": "liáo" },
+    { "hanzi": "见面", "english": "to meet", "pinyin": "jiàn miàn" },
+    { "hanzi": "常", "english": "often", "pinyin": "cháng" },
+    { "hanzi": "常常", "english": "often", "pinyin": "cháng cháng" },
+    { "hanzi": "想", "english": "to think, to miss", "pinyin": "xiǎng" },
+    { "hanzi": "给", "english": "to, for", "pinyin": "gěi" },
+    { "hanzi": "打", "english": "to make (phone call)", "pinyin": "dǎ" },
+    { "hanzi": "写", "english": "to write", "pinyin": "xiě" },
+    { "hanzi": "信", "english": "letter", "pinyin": "xìn" }
+  ]
+}

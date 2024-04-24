@@ -1,0 +1,45 @@
+{
+  "title": "Lesson 15",
+  "tags": ["Road To Success - Lower Elementary 2"],
+  "cards": [
+    { "hanzi": "时间", "english": "time", "pinyin": "shí jiān" },
+    { "hanzi": "从", "english": "from", "pinyin": "cóng" },
+    { "hanzi": "路", "english": "route", "pinyin": "lù" },
+    { "hanzi": "说", "english": "to say, to speak", "pinyin": "shuō" },
+    { "hanzi": "到", "english": "to arrive, to reach", "pinyin": "dào" },
+    { "hanzi": "等", "english": "to wait", "pinyin": "děng" },
+    { "hanzi": "一块儿", "english": "together", "pinyin": "yī kuài ér" },
+    {
+      "hanzi": "车站",
+      "english": "bus stop, railway station",
+      "pinyin": "chē zhàn"
+    },
+    { "hanzi": "站", "english": "station", "pinyin": "zhàn" },
+    { "hanzi": "邮局", "english": "post office", "pinyin": "yóu jú" },
+    { "hanzi": "寄", "english": "to post, to mail", "pinyin": "jì" },
+    { "hanzi": "封", "english": "(measure word)", "pinyin": "fēng" },
+    {
+      "hanzi": "门",
+      "english": "(measure word for class subjects)",
+      "pinyin": "mén"
+    },
+    { "hanzi": "语音", "english": "phonetics", "pinyin": "yǔ yīn" },
+    { "hanzi": "语法", "english": "grammar", "pinyin": "yǔ fǎ" },
+    { "hanzi": "汉字", "english": "Chinese character", "pinyin": "hàn zì" },
+    { "hanzi": "字", "english": "character", "pinyin": "zì" },
+    { "hanzi": "口语", "english": "spoken language", "pinyin": "kǒu yǔ" },
+    { "hanzi": "从到", "english": "from ... to ...", "pinyin": "cóng dào" },
+    {
+      "hanzi": "节",
+      "english": "(measure word for class time slots)",
+      "pinyin": "jié"
+    },
+    {
+      "hanzi": "第",
+      "english": "(prefix for an ordinal number)",
+      "pinyin": "dì"
+    },
+    { "hanzi": "姓", "english": "surname", "pinyin": "xìng" },
+    { "hanzi": "教", "english": "to teach", "pinyin": "jiāo" }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Lesson 14",
+  "tags": ["Road To Success - Lower Elementary 2"],
+  "cards": [
+    { "hanzi": "电影", "english": "film, movie", "pinyin": "diàn yǐng" },
+    { "hanzi": "票", "english": "ticket", "pinyin": "piào" },
+    {
+      "hanzi": "想",
+      "english": "to want to, would like to",
+      "pinyin": "xiǎng"
+    },
+    { "hanzi": "对不起", "english": "to be sorry", "pinyin": "duì bù qǐ" },
+    { "hanzi": "下", "english": "next", "pinyin": "xià" },
+    { "hanzi": "上", "english": "previous", "pinyin": "shàng" },
+    { "hanzi": "考试", "english": "to have an exam", "pinyin": "kǎo shì" },
+    { "hanzi": "考", "english": "to examine", "pinyin": "kǎo" },
+    { "hanzi": "要", "english": "to want to, to wish to", "pinyin": "yào" },
+    { "hanzi": "复习", "english": "to review", "pinyin": "fù xí" },
+    { "hanzi": "能", "english": "can, to be able to", "pinyin": "néng" },
+    {
+      "hanzi": "没关系",
+      "english": "It doesn't matter. (Answer to an apology)",
+      "pinyin": "méi guān xì"
+    },
+    { "hanzi": "事", "english": "matter, thing", "pinyin": "shì" },
+    { "hanzi": "舒服", "english": "comfortable", "pinyin": "shū fú" },
+    { "hanzi": "医院", "english": "hospital", "pinyin": "yī yuàn" },
+    { "hanzi": "一定", "english": "certainly", "pinyin": "yí dìng" },
+    { "hanzi": "语言", "english": "language", "pinyin": "yǔ yán" },
+    { "hanzi": "大学", "english": "university", "pinyin": "dà xué" },
+    { "hanzi": "中学", "english": "middle school", "pinyin": "zhōng xué" },
+    { "hanzi": "小学", "english": "primary school", "pinyin": "xiǎo xué" },
+    {
+      "hanzi": "留学生",
+      "english": "foreign student",
+      "pinyin": "liú xué shēng"
+    },
+    {
+      "hanzi": "一般",
+      "english": "usually, ordinary, general",
+      "pinyin": "yì bān"
+    },
+    { "hanzi": "休息", "english": "to rest", "pinyin": "xiū xī" },
+    { "hanzi": "有时候", "english": "sometimes", "pinyin": "yǒu shí hòu" },
+    { "hanzi": "逛", "english": "to stroll around", "pinyin": "guàng" },
+    { "hanzi": "公园", "english": "park", "pinyin": "gōng yuán" }
+  ]
+}
